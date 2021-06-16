@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+}
+#cabecalho{
+    text-align: center;
+    background-color: #2a47bd;
+    color: #fff;
+    height: 50px;
+}
+
+#conteudo{
+    margin-top: 20px;
+}
+
+#res{
+    margin-top: 35px;
+}
+
+input[type="checkbox"]{
+    margin-right: 10px;
+}
+
+ul{
+    list-style: none;
+}
